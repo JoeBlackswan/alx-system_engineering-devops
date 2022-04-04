@@ -1,0 +1,2 @@
+#!/bin/bash
+til -n 1 < iacta >> iacta
